@@ -1,2 +1,2 @@
 # .github
-mimOE respository
+mimOE repositories
