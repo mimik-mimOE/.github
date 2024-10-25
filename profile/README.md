@@ -1,4 +1,4 @@
-## mimOE
+## mim OE
 
 **mim OE repositories**
 
